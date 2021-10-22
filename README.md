@@ -1,6 +1,9 @@
 # Inference-of-a-knowledge-base
 Python script that simulate an inference of a knowledge base
 
+Name of the file : **InfernceOfKnowledgeBase.py**   
+You'll find it inside the **ubcsat-1-1-0** folder.   
+
 **Algorithm of reasoning by the absurd**
 
 **Input :**   
